@@ -24,4 +24,5 @@ console.log(typeof isLoggedin);
 
 let someNumber=44
 let cross=String(someNumber);
-
+console.log(cross);
+console.log(typeof cross);
